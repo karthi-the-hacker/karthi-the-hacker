@@ -76,6 +76,7 @@
  
 </p>
  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthi-the-hacker&show_icons=true&locale=en" alt="karthi-the-hacker" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi-the-hacker&show_icons=true&locale=en&layout=compact" alt="karthi-the-hacker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi-the-hacker&" alt="karthi-the-hacker" /></p>

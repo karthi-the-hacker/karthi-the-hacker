@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Karthikeyan (Karthithehacker)</h1>
 <h3 align="center">A passionate Hacker from India</h3>
-
+<img  align="right" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi-the-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="karthi-the-hacker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthi-the-hacker" alt="karthi-the-hacker" /></a> </p>

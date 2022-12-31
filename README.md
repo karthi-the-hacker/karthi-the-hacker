@@ -67,6 +67,14 @@
 <h3 align="left">Database :</h3>
 <p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+
+
+<h3 align="left">Hardware and IOT :</h3>
+<p align="left">  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+ <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.org/pagekit-assets/media/images/4913a547895720ff30c1.svg" alt="Raspberrypi" width="40" height="40"/> </a>
+  <a href="https://www.nodemcu.com/index_en.html" target="_blank" rel="noreferrer"> <img src="https://www.nodemcu.com/images/thumbnail/nodemcu-style5-150px.png_150x150.png" alt="Nodemcu" width="40" height="40"/> </a>
+ 
+</p>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi-the-hacker&show_icons=true&locale=en&layout=compact" alt="karthi-the-hacker" /></p>
 

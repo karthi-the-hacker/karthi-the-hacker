@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Cappricio Securities](https://cappriciosec.com/)
 
-- 👯 I’m good at developing tools/Software for Cyber Security/Investigation **(D3vnull,Gh0stR3c0n,Poseidon)**
+- 🔥 I’m good at developing tools/Software for Cyber Security/Investigation **(D3vnull,Gh0stR3c0n,Poseidon)**
 <img  align="right" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
 - 👨‍💻 More About me [karthithehacker.com](karthithehacker.com)

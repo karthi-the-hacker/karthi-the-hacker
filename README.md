@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C5616AQFS2wNwsl_GWw/profile-displaybackgroundimage-shrink_350_1400/0/1658571461557?e=1677715200&v=beta&t=bNPKYDKwbeX1N7R2VCFAztS1_Vjiu4--ue1X4ndt9n8">
+<img src="https://raw.githubusercontent.com/karthi-the-hacker/karthi-the-hacker/main/banner.png">
 
 
 <h1 align="center">Hi 👋, I'm Karthikeyan (Karthithehacker)</h1>

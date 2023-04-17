@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthithehacker" target="blank"><img src="https://img.shields.io/twitter/follow/karthithehacker?logo=twitter&style=for-the-badge" alt="karthithehacker" /></a> </p>
 
-- 🔭 I’m currently working on [Cappricio Securities](https://cappriciosec.com/)
+- 🔭 I’m currently working at [Cappricio Securities](https://cappriciosec.com/)
 
 - 🔥 I’m good at developing tools/Software for Cyber Security/Investigation **(D3vnull,Gh0stR3c0n,Poseidon)**
 <img  align="right" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/karthi-the-hacker/karthi-the-hacker/main/banner.png">
+<img src="https://raw.githubusercontent.com/karthi-the-hacker/karthi-the-hacker/main/pro.png">
 
 
 <h1 align="center">Hi 👋, I'm Karthikeyan (Karthithehacker)</h1>

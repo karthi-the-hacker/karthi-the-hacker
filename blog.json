@@ -1,0 +1,32 @@
+{
+    "feature": {
+      "title": "Hacking Android App",
+      "published_date": "15 Mar, 2025",
+      "author": "karthithehacker",
+      "filename":"featureblog.html",
+      "banner_image": "https://blogs.cappriciosec.com/uploaders/CVE-2024-31199.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "tag": "bugbounty"
+    },
+    "blogs": [
+      {
+        "title": "Test 1",
+        "published_date": "15 Mar, 2025",
+        "author": "karthithehacker",
+        "banner_image": "http://url",
+        "author_pic": "http://url",
+        "filename": "test1.html",
+        "tag": "cybersecurity tools"
+      },
+      {
+        "title": "Test 2",
+        "published_date": "15 Mar, 2025",
+        "author": "karthithehacker",
+        "banner_image": "http://url",
+        "author_pic": "http://url",
+        "filename": "test2.html",
+        "tag": "cybersecurity news"
+      }
+    ]
+  }
+  

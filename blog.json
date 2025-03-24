@@ -1,32 +1,71 @@
 {
-    "feature": {
-      "title": "Hacking Android App",
+  "Tags": [ "All","Cybersecurity News", "CVE", "CyberSecurity Tools", "Web Pentesting", "Android Pentesting","Others"],
+  "social_links": {
+      "twitter": "https://x.com/karthithehacker",
+      "youtube": "https://youtube.com/@karthi_the_hacker",
+      "medium": "https://medium.com/@karthithehacker",
+      "linkedin": "https://www.linkedin.com/in/karthikeyan--v/",
+      "instagram": "https://instagram.com/karthithehacker_",
+      "github": "https://github.com/karthi-the-hacker",
+      "Telegram":"https://t.me/karthithehacker1"
+     
+     
+    },
+  
+  "feature": {
+    "title": "Hacking Android App",
+    "published_date": "15 Mar, 2025",
+    "author": "karthithehacker",
+    "filename": "featureblog.html",
+    "banner_image": "http://127.0.0.1:5500/blog/images/3.webp",
+    "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+    "tag": "bugbounty"
+  },
+  "blogs": [
+    {
+      "title": "CVE-2024-7455 - Critical SQL Injection Vulnerability in itsourcecode Tailoring Management System",
+      "published_date": "15 Mar, 2027",
+      "author": "karthithehacker",
+      "banner_image": "http://127.0.0.1:5500/blog/images/2.webp",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://blogs.cappriciosec.com/cve/242/CVE-2024-7455%20-%20Critical%20SQL%20Injection%20Vulnerability%20in%20itsourcecode%20Tailoring%20Management%20System",
+      "tag": ["CVE","Web Pentesting"]
+    },
+    {
+      "title": "AEM Website Hacked? It Might Be XSS",
       "published_date": "15 Mar, 2025",
       "author": "karthithehacker",
-      "filename":"featureblog.html",
-      "banner_image": "http://127.0.0.1:5500/blog/1.png",
+      "banner_image": "http://127.0.0.1:5500/blog/images/1.webp",
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
-      "tag": "bugbounty"
+      "filename": "https://blogs.cappriciosec.com/application/190/AEM%20Website%20Hacked?%20It%20Might%20Be%20XSS",
+      "tag": ["Web Pentesting","CVE"]
     },
-    "blogs": [
-      {
-        "title": "Test 1",
-        "published_date": "15 Mar, 2025",
-        "author": "karthithehacker",
-        "banner_image": "http://url",
-        "author_pic": "http://url",
-        "filename": "test1.html",
-        "tag": "cybersecurity tools"
-      },
-      {
-        "title": "Test 2",
-        "published_date": "15 Mar, 2025",
-        "author": "karthithehacker",
-        "banner_image": "http://url",
-        "author_pic": "http://url",
-        "filename": "test2.html",
-        "tag": "cybersecurity news"
-      }
-    ]
-  }
-  
+    {
+      "title": "AEM Website Hacked? It Might Be XSS",
+      "published_date": "15 Mar, 2023",
+      "author": "karthithehacker",
+      "banner_image": "http://127.0.0.1:5500/blog/images/3.webp",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://blogs.cappriciosec.com/application/190/AEM%20Website%20Hacked?%20It%20Might%20Be%20XSS",
+      "tag": ["Web Pentesting"]
+    },
+    {
+      "title": "AEM Website Hacked? It Might Be XSS",
+      "published_date": "15 Mar, 2026",
+      "author": "karthithehacker",
+      "banner_image": "http://127.0.0.1:5500/blog/images/1.webp",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://blogs.cappriciosec.com/application/190/AEM%20Website%20Hacked?%20It%20Might%20Be%20XSS",
+      "tag": ["Android Pentesting"]
+    },
+    {
+      "title": "AEM Website Hacked? It Might Be XSS",
+      "published_date": "15 Mar, 2026",
+      "author": "karthithehacker",
+      "banner_image": "http://127.0.0.1:5500/blog/images/3.webp",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://blogs.cappriciosec.com/application/190/AEM%20Website%20Hacked?%20It%20Might%20Be%20XSS",
+      "tag": ["CVE"]
+    }
+  ]
+}

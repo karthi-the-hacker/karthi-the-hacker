@@ -285,5 +285,13 @@
         "place": "PSG College Srishti 2K24",
         "date": "October 5, 2024",
         "desc": "100+ students"
+    },
+    {
+        "id": "42",
+        "year": 2025,
+        "place": "St. Joseph’s Institute of Technology",
+        "date": "March 19,20, 2025",
+        "desc": "50+ students"
     }
+    
 ]

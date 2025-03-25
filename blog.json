@@ -71,7 +71,7 @@
     },
     {
       "title": "Unauthorized Access to UK Government MySQL Database via Exposed Docker Config",
-      "published_date": "26 Mar, 2026",
+      "published_date": "26 Mar, 2025",
       "author": "karthithehacker",
       "banner_image": "https://karthithehacker.com/blog/images/CVE-2021-41349_XSS_in_Redbull.png",
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
@@ -80,12 +80,21 @@
     },
     {
       "title": "Hacking WhatsApp Remotely Using Using Android mobile",
-      "published_date": "27 Mar, 2026",
+      "published_date": "27 Mar, 2025",
       "author": "karthithehacker",
       "banner_image": "https://karthithehacker.com/blog/images/hacking_whatsapp_remotely.png",
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
       "filename": "https://karthithehacker.com/blog/hacking_whatsapp_remotely.html",
       "tag": ["Others"]
+    },
+    {
+      "title": "Cracking Passwords using Python",
+      "published_date": "27 Mar, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/crack_passwords_using_python.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/crack_passwords_using_python.html",
+      "tag": ["CyberSecurity Tools"]
     }
   ]
 }

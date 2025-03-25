@@ -77,6 +77,15 @@
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
       "filename": "https://karthithehacker.com/blog/docker_info_leak_uk_gov_db_unauth_access.html",
       "tag": ["Web Pentesting","CVE"]
+    },
+    {
+      "title": "Hacking WhatsApp Remotely Using Using Android mobile",
+      "published_date": "27 Mar, 2026",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/hacking_whatsapp_remotely.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/hacking_whatsapp_remotely.html",
+      "tag": "Others"
     }
   ]
 }

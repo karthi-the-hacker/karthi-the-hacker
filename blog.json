@@ -73,7 +73,7 @@
       "title": "Unauthorized Access to UK Government MySQL Database via Exposed Docker Config",
       "published_date": "26 Mar, 2025",
       "author": "karthithehacker",
-      "banner_image": "https://karthithehacker.com/blog/images/CVE-2021-41349_XSS_in_Redbull.png",
+      "banner_image": "https://karthithehacker.com/blog/images/unauth_access_uk_gov_mysql.png",
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
       "filename": "https://karthithehacker.com/blog/docker_info_leak_uk_gov_db_unauth_access.html",
       "tag": ["Web Pentesting","CVE"]

@@ -15,13 +15,13 @@
   "mail": "<p>📢 <strong>Want to secure your app or looking for cybersecurity services?</strong></p> <p>If you're interested in <strong>VAPT, Web Penetration Testing, Security Audits, Android Pentesting</strong>, or any other cybersecurity project, feel free to send a proposal email to:</p> <p>📩 <strong><a href='mailto:ceo@cappriciosec.com'>ceo@cappriciosec.com</a></strong></p>",
 
   "feature": {
-    "title": "Hacking Android App",
-    "published_date": "15 Mar, 2025",
+    "title": "I Hacked a Billion Android Devices | $5000 Bounty | CVE-2021-0334",
+    "published_date": "26 Mar, 2025",
     "author": "karthithehacker",
-    "filename": "featureblog.html",
-    "banner_image": "http://127.0.0.1:5500/blog/images/3.webp",
+    "filename": "how-i-hacked-billion-android-OS-CVE-2021-0334.html",
+    "banner_image": "https://karthithehacker.com/blog/images/how-i-hacked-billion-android-users-cve-2021-0334.png",
     "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
-    "tag": "bugbounty"
+    "tag": ["Android Pentesting","CVE"]
   },
   "blogs": [
     {

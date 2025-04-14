@@ -292,6 +292,20 @@
         "place": "St. Joseph’s Institute of Technology",
         "date": "March 19,20, 2025",
         "desc": "50+ students"
+    },
+     {
+        "id": "42",
+        "year": 2025,
+        "place": "Crescent University FDP Program",
+        "date": "April 10, 2025",
+        "desc": "30+ Staffs"
+    },
+     {
+        "id": "43",
+        "year": 2025,
+        "place": "Rota-TechX Hackathon",
+        "date": "April 12,13, 2025",
+        "desc": "20 Teams"
     }
     
 ]

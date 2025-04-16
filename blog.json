@@ -26,7 +26,7 @@
   "blogs": [
     {
     "title": "I Hacked a Billion Android Devices | $5000 Bounty | CVE-2021-0334",
-    "published_date": "16 Apr, 2025",
+    "published_date": "26 Mar, 2025",
     "author": "karthithehacker",
     "filename": "https://karthithehacker.com/blog/how-i-hacked-billion-android-OS-CVE-2021-0334.html",
     "banner_image": "https://karthithehacker.com/blog/images/how-i-hacked-billion-android-users-cve-2021-0334.png",
@@ -116,7 +116,7 @@
     },
     {
       "title": "How I Found a Ticket Booking Bug That Allowed Me to Travel Almost for Free in TNSTC",
-      "published_date": "10 Mar, 2025",
+      "published_date": "16 Apr, 2025",
       "author": "karthithehacker",
       "banner_image": "https://karthithehacker.com/blog/images/tnstc-ticket-booking-vulnerability.png",
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",

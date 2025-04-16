@@ -113,6 +113,16 @@
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
       "filename": "https://karthithehacker.com/blog/alfa-awus036ach-setup-kali-linux.html",
       "tag": ["CyberSecurity Tools","Others"]
+    },
+    {
+      "title": "How I Found a Ticket Booking Bug That Allowed Me to Travel Almost for Free in TNSTC",
+      "published_date": "10 Mar, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/tnstc-ticket-booking-vulnerability.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/tnstc-ticket-booking-vulnerability.html",
+      "tag": ["Android Security", "Web Pentesting", "Cybersecurity News"]
     }
+
   ]
 }

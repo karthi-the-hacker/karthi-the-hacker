@@ -122,7 +122,15 @@
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
       "filename": "https://karthithehacker.com/blog/tnstc-ticket-booking-vulnerability.html",
       "tag": ["Android Security", "Web Pentesting", "Cybersecurity News"]
+    },
+    {
+      "title": "How I Found a Critical Bug That Leaked Chennai Residents’ Information",
+      "published_date": "17 Apr, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/chennai-residents-data-leak.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/chennai-residents-data-leak.html",
+      "tag": ["Web Pentesting", "Cybersecurity News"]
     }
-
   ]
 }

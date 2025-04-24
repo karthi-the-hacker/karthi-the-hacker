@@ -131,6 +131,15 @@
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
       "filename": "https://karthithehacker.com/blog/chennai-residents-data-leak.html",
       "tag": ["Web Pentesting", "Cybersecurity News"]
+    },
+    {
+      "title": "CVE-2024-34102 XXE in LG Subdomain",
+      "published_date": "24 Apr, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/CVE-2024-34102_XXE_in_LG.website.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/CVE-2024-34102_XXE_in_LG.website.html",
+      "tag": ["Web Pentesting", "CVE"]
     }
   ]
 }

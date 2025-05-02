@@ -140,6 +140,15 @@
       "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
       "filename": "https://karthithehacker.com/blog/CVE-2024-34102_XXE_in_LG.website.html",
       "tag": ["Web Pentesting", "CVE"]
+    },
+    {
+      "title": "How to Hack Any Camera Using CamJacking Tool",
+      "published_date": "2 May, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/how-to-hack-camera-camjacking.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/how-to-hack-camera-camjacking.html",
+      "tag": ["CyberSecurity Tools","Others"]
     }
   ]
 }

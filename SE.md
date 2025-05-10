@@ -1,18 +1,23 @@
 
-
 ## 🛠 1. **Creating CLI App using Python to Find Open Redirect (Using `requests` module)**
 
 ### 📘 What is an Open Redirect?
 
-An open redirect vulnerability allows an attacker to redirect users to malicious sites using a vulnerable parameter in the URL.
+An open redirect vulnerability allows attackers to redirect users to malicious sites using a vulnerable parameter in the URL.
+
+### 📦 Install Requirements:
+
+```bash
+pip install requests
+```
 
 ### 🧰 Libraries Used:
 
 * `requests`
-* `sys` (for CLI arguments)
-* `urllib.parse` (for URL parsing)
+* `sys` (built-in)
+* `urllib.parse` (built-in)
 
-### 🔤 Sample Code:
+### 🔤 Sample Code (save as `open_redirect_finder.py`):
 
 ```python
 import requests
@@ -38,7 +43,7 @@ if __name__ == "__main__":
         check_open_redirect(sys.argv[1], sys.argv[2])
 ```
 
-### ✅ Example:
+### ✅ Run:
 
 ```bash
 python3 open_redirect_finder.py https://example.com/redirect url
@@ -50,11 +55,16 @@ python3 open_redirect_finder.py https://example.com/redirect url
 
 ### 📘 What is a Web App?
 
-A web application allows users to interact via browser. We'll create a simple form-based PHP app.
+A web application interacts with users via a browser. We'll create a simple form-based app.
 
-### 🔤 Sample Code:
+### 🛠 Setup Instructions:
 
-**index.php**
+1. Install XAMPP or any local server (Apache + PHP).
+2. Place the files in the `htdocs` folder.
+
+### 🔤 Files:
+
+**`index.php`**
 
 ```php
 <!DOCTYPE html>
@@ -68,7 +78,7 @@ A web application allows users to interact via browser. We'll create a simple fo
 </html>
 ```
 
-**welcome.php**
+**`welcome.php`**
 
 ```php
 <?php
@@ -77,9 +87,9 @@ echo "Welcome, " . $name;
 ?>
 ```
 
-### ✅ How to Run:
+### ✅ Run:
 
-Place the files in `htdocs` folder (if using XAMPP) and access via:
+Open browser and go to:
 
 ```
 http://localhost/index.php
@@ -91,9 +101,15 @@ http://localhost/index.php
 
 ### 📘 What is FastAPI?
 
-FastAPI is a modern Python framework to build REST APIs.
+FastAPI is a modern Python web framework for building APIs.
 
-### 🔤 Sample Code:
+### 📦 Install Requirements:
+
+```bash
+pip install fastapi uvicorn
+```
+
+### 🧰 Sample Code (save as `main.py`):
 
 ```python
 from fastapi import FastAPI
@@ -109,7 +125,7 @@ def greet(name: str):
     return {"message": f"Hello {name}"}
 ```
 
-### ✅ Run with:
+### ✅ Run:
 
 ```bash
 uvicorn main:app --reload
@@ -117,10 +133,8 @@ uvicorn main:app --reload
 
 ### 🔎 Access:
 
-```
-http://127.0.0.1:8000
-http://127.0.0.1:8000/docs (Swagger UI)
-```
+* Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+* API: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
@@ -128,46 +142,45 @@ http://127.0.0.1:8000/docs (Swagger UI)
 
 ### 📘 What is Electron?
 
-Electron allows building desktop GUI apps using web technologies.
+Electron lets you build cross-platform desktop apps using web technologies.
 
-### 🔤 Sample Code:
+### 🛠 Setup Instructions:
 
-**Folder Structure**
+1. Install Node.js
+2. Create project folder:
 
+```bash
+mkdir electron-webview && cd electron-webview
+npm init -y
+npm install electron --save-dev
 ```
-electron-webview/
-├── main.js
-├── index.html
-├── package.json
-```
 
-**package.json**
+### 🔤 Files:
+
+**`package.json`**
+
+Add script inside `"scripts"`:
 
 ```json
-{
-  "name": "gui-app",
-  "main": "main.js",
-  "scripts": {
-    "start": "electron ."
-  },
-  "devDependencies": {
-    "electron": "^26.0.0"
-  }
+"scripts": {
+  "start": "electron ."
 }
 ```
 
-**main.js**
+**`main.js`**
 
 ```javascript
 const { app, BrowserWindow } = require('electron');
+
 function createWindow() {
     const win = new BrowserWindow({ width: 800, height: 600 });
     win.loadFile('index.html');
 }
+
 app.whenReady().then(createWindow);
 ```
 
-**index.html**
+**`index.html`**
 
 ```html
 <!DOCTYPE html>
@@ -178,10 +191,9 @@ app.whenReady().then(createWindow);
 </html>
 ```
 
-### ✅ How to Run:
+### ✅ Run:
 
 ```bash
-npm install
 npm start
 ```
 
@@ -191,11 +203,12 @@ npm start
 
 ### 📘 What is a WebView App?
 
-It loads a website inside an Android app.
+It’s a native Android app that loads a website inside a WebView.
 
-### 🔤 Sample Code:
+### 🛠 Project Setup:
 
-**`MainActivity.java`**
+1. Open Android Studio → New Project → Select **Empty Activity**
+2. In `MainActivity.java`, use this code:
 
 ```java
 package com.example.webviewapp;
@@ -220,23 +233,15 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-**AndroidManifest.xml**
+3. In `AndroidManifest.xml`, add:
 
 ```xml
-<uses-permission android:name="android.permission.INTERNET"/>
-<application ...>
-    <activity android:name=".MainActivity">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN"/>
-            <category android:name="android.intent.category.LAUNCHER"/>
-        </intent-filter>
-    </activity>
-</application>
+<uses-permission android:name="android.permission.INTERNET" />
 ```
 
-### ✅ How to Run:
+### ✅ Run:
 
-1. Open in Android Studio
-2. Connect Emulator or Phone
-3. Click "Run"
+* Connect Emulator or Android Device
+* Click **Run** in Android Studio
+
 

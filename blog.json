@@ -177,7 +177,17 @@
     "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
     "filename": "https://karthithehacker.com/blog/how-to-stop-instagram-account-hacked-bitcoin-scam.html",
     "tag": ["Others"]
+},
+{
+  "title": "CVE-2023-29489 XSS Bug in Nokia Subdomain",
+  "published_date": "11 May, 2025",
+  "author": "karthithehacker",
+  "banner_image": "https://karthithehacker.com/blog/images/CVE-2023-29489_XSS_Bug_in_nokia%20.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/CVE-2023-29489_XSS_Bug_nokia_Subdomain.html",
+  "tag": ["Web Pentesting", "CVE"]
 }
+
 
   ]
 }

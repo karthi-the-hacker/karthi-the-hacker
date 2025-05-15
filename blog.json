@@ -186,7 +186,17 @@
   "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
   "filename": "https://karthithehacker.com/blog/CVE-2023-29489_XSS_Bug_nokia_Subdomain.html",
   "tag": ["Web Pentesting", "CVE"]
+},
+    {
+  "title": "How to Install Kali Linux 2025 on VMware, VirtualBox & Dual Boot",
+  "published_date": "15 May, 2025",
+  "author": "karthithehacker",
+  "banner_image": "https://karthithehacker.com/blog/images/install-kali-linux-2025-vmware-virtualbox-dualboot.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/install-kali-linux-2025-vmware-virtualbox-dualboot.html",
+  "tag": ["Others"]
 }
+
 
 
   ]

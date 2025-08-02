@@ -205,7 +205,7 @@
   "filename": "https://karthithehacker.com/blog/all-in-one-wifi-hacking-tool.html",
   "tag": ["CyberSecurity Tools"]
 },
-    {
+{
   "title": "How a Cybersecurity Expert Helped Police Expose a Fake Loan App Scam",
   "published_date": "20 Jul, 2025",
   "author": "karthithehacker",
@@ -216,7 +216,8 @@
     "Cybersecurity News",
     "Others"
   ]
-},{
+},
+{
   "title": "How I Hacked a Fake DMart Website and Took It Down",
   "published_date": "02 Aug, 2025",
   "author": "karthithehacker",
@@ -224,15 +225,9 @@
   "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
   "filename": "https://karthithehacker.com/blog/hacked-fake-dmart-website-ethical-hacking.html",
   "tag": [
-    "Cybersecurity News"",
+    "Cybersecurity News",
     "Web Pentesting"
   ]
 }
-
-
-
-
-
   ]
 }
-

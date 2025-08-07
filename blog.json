@@ -218,54 +218,67 @@
   ]
 },
 {
-  "title": "How I Hacked a Fake DMart Website and Took It Down",
-  "published_date": "02 Aug, 2025",
-  "author": "karthithehacker",
-  "banner_image": "https://karthithehacker.com/blog/images/hacked-fake-dmart-website-ethical-hacking.png",
-  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
-  "filename": "https://karthithehacker.com/blog/hacked-fake-dmart-website-ethical-hacking.html",
-  "tag": [
-    "Cybersecurity News",
-    "Web Pentesting"
-  ]
-},
+      "title": "How I Hacked a Fake DMart Website and Took It Down",
+      "published_date": "02 Aug, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/hacked-fake-dmart-website-ethical-hacking.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/hacked-fake-dmart-website-ethical-hacking.html",
+      "tag": [
+        "Cybersecurity News",
+        "Web Pentesting"
+      ]
+    },
     {
-  "title": "AI in Cybersecurity: Smart Defenses Against Smarter Threats",
-  "published_date": "03 Aug, 2025",
-  "author": "karthithehacker",
-  "banner_image": "https://karthithehacker.com/blog/images/AI-in-Cybersecurity.png",
-  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
-  "filename": "https://karthithehacker.com/blog/AI-in-Cybersecurity.html",
-  "tag": [
-    "Cybersecurity News",
-    "Others"
-  ]
-},
+      "title": "AI in Cybersecurity: Smart Defenses Against Smarter Threats",
+      "published_date": "03 Aug, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/AI-in-Cybersecurity.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/AI-in-Cybersecurity.html",
+      "tag": [
+        "Cybersecurity News",
+        "Others"
+      ]
+    },
     {
-  "title": "What is Kali GPT & How to install it ?",
-  "published_date": "04 Aug, 2025",
-  "author": "karthithehacker",
-  "banner_image": "https://karthithehacker.com/blog/images/how-to-install-kali-gpt-in-2025.png",
-  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
-  "filename": "https://karthithehacker.com/blog/how-to-install-kali-gpt-in-2025.html",
-  "tag": [
-    "Cybersecurity News",
-    "CyberSecurity Tools"
-  ]
-},
+      "title": "What is Kali GPT & How to install it ?",
+      "published_date": "04 Aug, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/how-to-install-kali-gpt-in-2025.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/how-to-install-kali-gpt-in-2025.html",
+      "tag": [
+        "Cybersecurity News",
+        "CyberSecurity Tools"
+      ]
+    },
     {
-  "title": "What is Vibe Hacking? How Hackers Hijack Your Emotions Using AI?",
-  "published_date": "05 Aug, 2025",
-  "author": "karthithehacker",
-  "banner_image": "https://karthithehacker.com/blog/images/vibe-hacking-explained.png",
-  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
-  "filename": "https://karthithehacker.com/blog/what-is-vibe-hacking-full-explained.html",
-  "tag": [
-    "Cybersecurity News",
-    "Others"
+      "title": "What is Vibe Hacking? How Hackers Hijack Your Emotions Using AI?",
+      "published_date": "05 Aug, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/vibe-hacking-explained.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/what-is-vibe-hacking-full-explained.html",
+      "tag": [
+        "Cybersecurity News",
+        "Others"
+      ]
+    },
+     {
+      "title": "Advance Social Engineering Toolkit for Ethical Hackers",
+      "published_date": "08 Aug, 2025",
+      "author": "karthithehacker",
+      "banner_image": "https://karthithehacker.com/blog/images/social-engineering-hacking-tool.png",
+      "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+      "filename": "https://karthithehacker.com/blog/social-engineering-hacking-tool-guide.html",
+      "tag": [
+        "Cybersecurity News",
+        "CyberSecurity Tools"
+      ]
+    }
   ]
 }
-  ]
-}
+
 
 

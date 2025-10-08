@@ -321,7 +321,7 @@
     "CyberSecurity Tools"
   ]
 },
-     {
+  {
   "title": "SBI Reward Points Scam: Full Technical Analysis of Malicious APK Attack Spreading via WhatsApp",
   "published_date": "01 Oct, 2025",
   "author": "karthithehacker",
@@ -331,11 +331,24 @@
   "tag": [
     "Cybersecurity News", "Android Pentesting", "Others"
   ]
+},
+{
+  "title": "Can Ships and Submarines Be Hacked?",
+  "published_date": "08 Oct, 2025",
+  "author": "karthithehacker",
+  "banner_image": "https://karthithehacker.com/blog/images/cruseship.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/maritime-iot-ot-security.html",
+  "tag": [
+     "Others"
+  ]
 }
+
 
 
   ]
 }
+
 
 
 

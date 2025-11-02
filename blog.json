@@ -342,12 +342,28 @@
   "tag": [
      "Others"
   ]
+},
+   
+
+{
+  "title": "Account Takeover in Dutch Government Android App — OAuth Deep Link Writeup",
+  "published_date": "02 Nov, 2025",
+  "author": "karthithehacker",
+  "banner_image": "https://karthithehacker.com/blog/images/oauth-deeplink-vulnerability-dutch-gov-report.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/oauth-deeplink-vulnerability-dutch-gov-report.html",
+  "tag": [
+    "Android Pentesting",
+    "Web Pentesting"
+  ]
 }
+
 
 
 
   ]
 }
+
 
 
 

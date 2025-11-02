@@ -346,7 +346,7 @@
    
 
 {
-  "title": "Account Takeover in Dutch Government Android App — OAuth Deep Link Writeup",
+  "title": "Account Takeover Bug in Dutch Government Android App ",
   "published_date": "02 Nov, 2025",
   "author": "karthithehacker",
   "banner_image": "https://karthithehacker.com/blog/images/oauth-deeplink-vulnerability-dutch-gov-report.png",
@@ -363,6 +363,7 @@
 
   ]
 }
+
 
 
 

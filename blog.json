@@ -356,13 +356,27 @@
     "Android Pentesting",
     "Web Pentesting"
   ]
+},
+    {
+  "title": "BBC Open Redirect Vulnerability | Bug Bounty Hall of Fame",
+  "published_date": "13 Nov, 2025",
+  "author": "karthithehacker",
+  "banner_image": "https://karthithehacker.com/blog/images/bbc-bugbounty-hall-of-fame.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/bbc-bugbounty-hall-of-fame.html",
+  "tag": [
+    "Web Pentesting",
+     "Cybersecurity Tools"
+  ]
 }
+
 
 
 
 
   ]
 }
+
 
 
 

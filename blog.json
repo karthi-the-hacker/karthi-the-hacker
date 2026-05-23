@@ -380,6 +380,18 @@
         "Cybersecurity News",
         "Others"
       ]
+},
+     {
+  "title": "Cracking Passwords using hashcat and john the ripper",
+  "published_date": "23 May, 2026",
+  "author": "karthithehacker",
+  "banner_image": "https://cappriciosec.com/admin_university/university_automation/images/img_6a115f577376d9.50058199.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/password-cracking-guide.html",
+  "tag": [
+        "Cybersecurity News",
+        "Others"
+      ]
 }
 
 

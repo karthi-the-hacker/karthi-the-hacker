@@ -404,6 +404,14 @@
     
         "Others"
       ]
+},{
+  "title": "CVE-2024-24919 – Check Point File Inclusion Vulnerability | PoC & Technical Analysis",
+  "published_date": "20 September, 2026",
+  "author": "karthithehacker",
+  "banner_image": "https://karthithehacker.com/blog/images/cve-2024-24919-sony.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/cve-2024-24919-sony-file-inclusion-vulnerability-poc.html",
+  "tag": ["Web Pentesting", "CVE"]
 }
 
 

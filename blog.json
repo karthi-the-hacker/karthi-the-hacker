@@ -412,6 +412,21 @@
   "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
   "filename": "https://karthithehacker.com/blog/cve-2024-24919-sony-file-inclusion-vulnerability-poc.html",
   "tag": ["Web Pentesting", "CVE"]
+},{
+  "title": "How I Found DOM XSS in NASA | Bug Bounty Story",
+  "published_date": "19 October, 2026",
+  "author": "karthithehacker",
+  "banner_image": "https://karthithehacker.com/blog/images/nasa-siteminder-reflected-xss-bug-bounty.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/nasa-siteminder-reflected-xss-bug-bounty.html",
+  "tag": [
+    "Bug Bounty",
+    "Web Pentesting",
+    "XSS",
+    "NASA",
+    "Ethical Hacking",
+    "Vulnerability Research"
+  ]
 }
 
 

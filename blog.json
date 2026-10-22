@@ -439,11 +439,8 @@
     "Bug Bounty",
     "Web Pentesting",
     "Blind SSRF",
-    "CVE-2020-10770",
-    "Keycloak",
-    "Nokia",
-    "Ethical Hacking",
-    "Vulnerability Research"
+    "CVE-2020-10770"
+
   ]
 }
 

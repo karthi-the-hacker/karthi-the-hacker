@@ -427,7 +427,26 @@
     "Ethical Hacking",
     "Vulnerability Research"
   ]
+},
+{
+  "title": "How I Investigated Blind SSRF in Nokia Keycloak | CVE-2020-10770",
+  "published_date": "23 October, 2026",
+  "author": "karthithehacker",
+  "banner_image": "https://karthithehacker.com/blog/images/CVE-2020-10770-keycloak-request-uri-blind-ssrf-nokia.png",
+  "author_pic": "https://karthithehacker.com/assets/android-chrome-192x192.png",
+  "filename": "https://karthithehacker.com/blog/CVE-2020-10770-keycloak-request-uri-blind-ssrf-nokia.html",
+  "tag": [
+    "Bug Bounty",
+    "Web Pentesting",
+    "Blind SSRF",
+    "CVE-2020-10770",
+    "Keycloak",
+    "Nokia",
+    "Ethical Hacking",
+    "Vulnerability Research"
+  ]
 }
+
 
 
 
